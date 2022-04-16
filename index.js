@@ -67,6 +67,8 @@ function game1(playerselection , computerselection)
     if(playerselection == computerselection)
     {
         console.log("Both are Equal");
+        console.log("Veryyy Coooollll!!!!!");
+        
 
         
 
